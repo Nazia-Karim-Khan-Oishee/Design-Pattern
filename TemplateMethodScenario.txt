@@ -1,8 +1,1 @@
-<<<<<<< HEAD
-In my scenarion, there can be two types of user trying to shop. They can be either registered user or guest user. We can browse products,
-add products to cart and finally check out. SO the template method calls these 3 methods. For guest user , they need to sign up or login 
-=======
-In my scenarion, there can be two types of user trying to shop. They can be either registered user or guest user. We can browse products,
-add products to cart and finally check out. SO the template method calls these 3 methods. For guest user , they need to sign up or login 
->>>>>>> origin/main
-to check out. The registered user can check out directly. There will be discounts and rewards also for registered user.
+
